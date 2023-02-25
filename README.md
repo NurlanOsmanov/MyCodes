@@ -1,2 +1,2 @@
 # MyCodes
-Mənim öyrəndiyim və üzərində işlədiyim projelərimin yerləşdiyi yer
+Created by Nurlan Osmanov.
